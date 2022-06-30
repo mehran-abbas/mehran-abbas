@@ -6,7 +6,7 @@
 
 📫 How to reach me: mehranabbas@icloud.com
 
-🤔 I’m looking for help with AR integration in android apps using Java and GOogle AR Core
+🤔 I’m looking for help with AR integration in android apps using Java and Google AR Core
 
 Here are some ideas to get you started:
 
