@@ -1,5 +1,6 @@
 ### Hi there 👋 I am student of Software Engineering. (Final Year). Love ❤ Java 
-![java1]   (https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg)
+<img  width=”200" height=”200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+
           
           
 <!--
