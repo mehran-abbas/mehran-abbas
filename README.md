@@ -1,6 +1,17 @@
-### Hi there 👋 I am student of Software Engineering. (Final Year). Love ❤ Java 
+### Hi there 👋
 
-(https://user-images.githubusercontent.com/68163130/148260537-9b57859f-5709-4125-abaf-e6efcd8ecb90.png)
+I am student of Software Engineering. (Final Year).
+
+I’m currently working on My Final Year Project about Augmented Reality in Anroid Using
+
+i. ARCore SDK <br>
+ii. SceneForm SDK
+
+  <p allign="center"
+
+![java](https://user-images.githubusercontent.com/68163130/148258667-ba707fa0-2790-47d0-9fcd-00bb7497a88b.png)
+
+</p>
 <!--
 **mehran-abbas/mehran-abbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
