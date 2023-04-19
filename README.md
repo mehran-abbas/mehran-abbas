@@ -3,9 +3,9 @@
 
 ### I am a Software Engineer  💻 
 
-- 🛠 I’m currently developing web3 Decentralized applications ⚛️  
+- ❤ I interested in developing web3 Decenralised applications ⚛️  
 - ❤ I love to develop android applications using Java
-- 📖 I’m currently learning Angular, ether.js 
+- 📖 I’m currently learning ReactJs & Laravel ⚛️   
 - 📧 How to reach me: mehranabbas@icloud.com
 
 <h3 align="left">Languages and Tools:</h3>
