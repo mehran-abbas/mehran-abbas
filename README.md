@@ -18,13 +18,20 @@
   <a href="" target="_blank"> <img src="https://img.icons8.com/fluency/344/c-plus-plus-logo.png" width="45" alt="C++" /> </a>
   <a href="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="45px" alt="dart" /> </a>
   <a href="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" target="_blank"> <img src="https://skills.thijs.gg/icons?i=java&theme=dark" alt="java" width="45px" /> </a><a href="" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="" width="45px"/> </a>
+    <a href="" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="reactJs" width="45px" /> </a>
+   <a href="" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="laravel" width="45px" /> </a>
+    <a href="" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="45px" /> </a>
+  
+   
   
   <a href="https://img.icons8.com/color/344/solidity.png" target="_blank"> <img src="https://img.icons8.com/color/344/solidity.png" alt="" width="45px" /> </a><a href="https://trufflesuite.com/truffle/" target="_blank"> <img src="https://trufflesuite.com/img/truffle-logo-light.svg" alt="" width="45px" /> </a>
    <a href="" target="_blank"> <img src="" alt="" width="45px" /> </a><a href="https://hardhat.org/" target="_blank"> <img src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg" alt="" width="120px" /> </a>
    <a href="https://metamask.io/" target="_blank"> <img src="https://img.icons8.com/color/344/metamask-logo.png" alt="" width="45px" /> </a>
    <a href="https://ethereum.org/en/" target="_blank"> <img src="https://img.icons8.com/color/344/ethereum.png" alt="" width="45px" /> </a>
   
-  <a href="" target="_blank"> <img width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" /> </a>
+  
+    <a href="" target="_blank"> <img src=" https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="postman" width="45px" /> </a>
+   <a href="" target="_blank"> <img width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" /> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/firebase-icon.svg" alt="Firebase Icon" /> </a>
   <a href="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" target="_blank"> <img src="https://skills.thijs.gg/icons?i=nodejs&theme=dark" alt="node"  /> </a><a href="" target="_blank"> <img src="" alt="" /> </a>
    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://developer.android.com/studio/" target="_blank"> <img src="https://img.icons8.com/color/344/android-studio--v2.png" alt="" width="45px" /> </a>  <a href="" target="_blank"> <img src="https://img.icons8.com/officexs/344/java-eclipse.png" alt="" width="45px" /> </a> <a href="" target="_blank"> <img src="https://img.icons8.com/external-those-icons-flat-those-icons/344/external-GitHub-Logo-social-media-those-icons-flat-those-icons.png" alt="" width="45px" /> </a></p>
