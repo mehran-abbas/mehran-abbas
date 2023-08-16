@@ -21,6 +21,7 @@
   <a href="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="45px" alt="dart" /> </a>
   <a href="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" target="_blank"> <img src="https://skills.thijs.gg/icons?i=java&theme=dark" alt="java" width="45px" /> </a>
     <a href="" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="reactJs" width="45px" /> </a>
+   <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Redux.svg" alt="reactRedux" width="45px" /> </a>
    <a href="" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="laravel" width="45px" /> </a>
   
   
