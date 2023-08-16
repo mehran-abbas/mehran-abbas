@@ -7,7 +7,7 @@
 
 - ❤ I am interested in developing web3 Decenralised applications ⚛️  
 - ❤ I love to develop android applications using Java
-- 📖 I’m currently learning ReactJs & Laravel ⚛️   
+- 📖 I’m currently learning ReactJs + Redux ⚛️   
 - 📧 How to reach me: mehranabbas@icloud.com
 
 <h3 align="left">Languages</h3>
