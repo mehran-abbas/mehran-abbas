@@ -10,7 +10,7 @@
 - 📖 I’m currently learning ReactJs + Redux ⚛️   
 - 📧 How to reach me: mehranabbas@icloud.com
 
-<h3 align="left">Languages</h3>
+<h3 align="left">Technologies</h3>
 <p align="left">
    <a href="" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="" width="45px" /> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" /> </a>
